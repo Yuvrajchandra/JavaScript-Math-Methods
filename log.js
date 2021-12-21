@@ -1,0 +1,10 @@
+let num1 = 0;
+let num2 = 1;
+let num3 = -1;
+let num4 = 10;
+let num5 = -2;
+console.log(Math.log(num1));
+console.log(Math.log(num2));
+console.log(Math.log(num3));
+console.log(Math.log(num4));
+console.log(Math.log(num5));
