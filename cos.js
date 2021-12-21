@@ -1,0 +1,10 @@
+let num1 = 0;
+let num2 = 1;
+let num3 = Math.PI;
+let num4 = 0.5;
+let num5 = 45;
+console.log(Math.cos(num1));
+console.log(Math.cos(num2));
+console.log(Math.cos(num3));
+console.log(Math.cos(num4));
+console.log(Math.cos(num5));
