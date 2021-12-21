@@ -1,0 +1,10 @@
+let num1 = 64;
+let num2 = 25;
+let num3 = -1;
+let num4 = Infinity;
+let num5 = 144;
+console.log(Math.sqrt(num1));
+console.log(Math.sqrt(num2));
+console.log(Math.sqrt(num3));
+console.log(Math.sqrt(num4));
+console.log(Math.sqrt(num5));

@@ -1,0 +1,10 @@
+let num1 = 0;
+let num2 = 1;
+let num3 = Math.PI;
+let num4 = 0.5;
+let num5 = 45;
+console.log(Math.tan(num1));
+console.log(Math.tan(num2));
+console.log(Math.tan(num3));
+console.log(Math.tan(num4));
+console.log(Math.tan(num5));
