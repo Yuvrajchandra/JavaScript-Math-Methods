@@ -1,0 +1,10 @@
+let num1 = 32;
+let num2 = -13;
+let num3 = -345;
+let num4 = 4.76;
+let num5 = 0;
+console.log(Math.abs(num1));
+console.log(Math.abs(num2));
+console.log(Math.abs(num3));
+console.log(Math.abs(num4));
+console.log(Math.abs(num5));
