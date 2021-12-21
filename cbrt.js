@@ -1,0 +1,10 @@
+let num1 = 64;
+let num2 = 125;
+let num3 = -1;
+let num4 = Infinity;
+let num5 = 0;
+console.log(Math.cbrt(num1));
+console.log(Math.cbrt(num2));
+console.log(Math.cbrt(num3));
+console.log(Math.cbrt(num4));
+console.log(Math.cbrt(num5));
